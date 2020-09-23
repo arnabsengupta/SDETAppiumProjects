@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="179145" started-at="2020-09-23T12:45:26 IST" finished-at="2020-09-23T12:48:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="179145" started-at="2020-09-23T12:45:26 IST" finished-at="2020-09-23T12:48:25 IST">
+      <class name="sdet.appium.org.AppiumTestProject.AddNoteWithReminder">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.AddNoteWithReminder@58c1670b]" name="beforeClass" is-config="true" duration-ms="12523" started-at="2020-09-23T12:45:26 IST" finished-at="2020-09-23T12:45:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="CreateNewNoteAndVerify()[pri:0, instance:sdet.appium.org.AppiumTestProject.AddNoteWithReminder@58c1670b]" name="CreateNewNoteAndVerify" duration-ms="12160" started-at="2020-09-23T12:45:39 IST" finished-at="2020-09-23T12:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewNoteAndVerify -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.AddNoteWithReminder@58c1670b]" name="afterClass" is-config="true" duration-ms="535" started-at="2020-09-23T12:45:51 IST" finished-at="2020-09-23T12:45:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- sdet.appium.org.AppiumTestProject.AddNoteWithReminder -->
+      <class name="sdet.appium.org.AppiumTestProject.AddNewNoteGKeep">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.AddNewNoteGKeep@5bb21b69]" name="beforeClass" is-config="true" duration-ms="10722" started-at="2020-09-23T12:46:50 IST" finished-at="2020-09-23T12:47:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="CreateNewNoteAndVerify()[pri:0, instance:sdet.appium.org.AppiumTestProject.AddNewNoteGKeep@5bb21b69]" name="CreateNewNoteAndVerify" duration-ms="8975" started-at="2020-09-23T12:47:01 IST" finished-at="2020-09-23T12:47:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewNoteAndVerify -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.AddNewNoteGKeep@5bb21b69]" name="afterClass" is-config="true" duration-ms="604" started-at="2020-09-23T12:47:10 IST" finished-at="2020-09-23T12:47:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- sdet.appium.org.AppiumTestProject.AddNewNoteGKeep -->
+      <class name="sdet.appium.org.AppiumTestProject.CreateAddNewTask">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.CreateAddNewTask@6b57696f]" name="beforeClass" is-config="true" duration-ms="10512" started-at="2020-09-23T12:46:27 IST" finished-at="2020-09-23T12:46:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="CreateNewNoteAndVerify()[pri:0, instance:sdet.appium.org.AppiumTestProject.CreateAddNewTask@6b57696f]" name="CreateNewNoteAndVerify" duration-ms="11860" started-at="2020-09-23T12:46:38 IST" finished-at="2020-09-23T12:46:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewNoteAndVerify -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.CreateAddNewTask@6b57696f]" name="afterClass" is-config="true" duration-ms="531" started-at="2020-09-23T12:46:50 IST" finished-at="2020-09-23T12:46:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- sdet.appium.org.AppiumTestProject.CreateAddNewTask -->
+      <class name="sdet.appium.org.AppiumTestProject.ToDoListTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.ToDoListTest@6b9651f3]" name="beforeClass" is-config="true" duration-ms="11449" started-at="2020-09-23T12:47:11 IST" finished-at="2020-09-23T12:47:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="AddStrickOutClearTask()[pri:0, instance:sdet.appium.org.AppiumTestProject.ToDoListTest@6b9651f3]" name="AddStrickOutClearTask" duration-ms="33435" started-at="2020-09-23T12:47:22 IST" finished-at="2020-09-23T12:47:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddStrickOutClearTask -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.ToDoListTest@6b9651f3]" name="afterClass" is-config="true" duration-ms="840" started-at="2020-09-23T12:47:56 IST" finished-at="2020-09-23T12:47:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- sdet.appium.org.AppiumTestProject.ToDoListTest -->
+      <class name="sdet.appium.org.AppiumTestProject.LoginTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.LoginTest@38bc8ab5]" name="beforeClass" is-config="true" duration-ms="11330" started-at="2020-09-23T12:47:56 IST" finished-at="2020-09-23T12:48:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="verifyInvalidCredentialsTest()[pri:0, instance:sdet.appium.org.AppiumTestProject.LoginTest@38bc8ab5]" name="verifyInvalidCredentialsTest" duration-ms="13621" started-at="2020-09-23T12:48:08 IST" finished-at="2020-09-23T12:48:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidCredentialsTest -->
+        <test-method status="PASS" signature="verifyValidCredentialsTest()[pri:0, instance:sdet.appium.org.AppiumTestProject.LoginTest@38bc8ab5]" name="verifyValidCredentialsTest" duration-ms="3483" started-at="2020-09-23T12:48:21 IST" finished-at="2020-09-23T12:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidCredentialsTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.LoginTest@38bc8ab5]" name="afterClass" is-config="true" duration-ms="700" started-at="2020-09-23T12:48:25 IST" finished-at="2020-09-23T12:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- sdet.appium.org.AppiumTestProject.LoginTest -->
+      <class name="sdet.appium.org.AppiumTestProject.LoginTestUsingPopUps">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.LoginTestUsingPopUps@687080dc]" name="beforeClass" is-config="true" duration-ms="11379" started-at="2020-09-23T12:45:52 IST" finished-at="2020-09-23T12:46:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="verifyInvalidCredentialsTest()[pri:0, instance:sdet.appium.org.AppiumTestProject.LoginTestUsingPopUps@687080dc]" name="verifyInvalidCredentialsTest" duration-ms="16944" started-at="2020-09-23T12:46:03 IST" finished-at="2020-09-23T12:46:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidCredentialsTest -->
+        <test-method status="PASS" signature="verifyValidCredentialsTest()[pri:0, instance:sdet.appium.org.AppiumTestProject.LoginTestUsingPopUps@687080dc]" name="verifyValidCredentialsTest" duration-ms="6803" started-at="2020-09-23T12:46:20 IST" finished-at="2020-09-23T12:46:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidCredentialsTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:sdet.appium.org.AppiumTestProject.LoginTestUsingPopUps@687080dc]" name="afterClass" is-config="true" duration-ms="625" started-at="2020-09-23T12:46:27 IST" finished-at="2020-09-23T12:46:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- sdet.appium.org.AppiumTestProject.LoginTestUsingPopUps -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

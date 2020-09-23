@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="AppiumTests">
+        <classes>
+            <class name="sdet.appium.org.AppiumTestProject.AddNewNoteGKeep"/>
+            <class name="sdet.appium.org.AppiumTestProject.AddNewNoteWithReminder"/>
+            <class name="sdet.appium.org.AppiumTestProject.CreateAddNewTask"/>
+            <class name="sdet.appium.org.AppiumTestProject.LoginTest"/>
+            <class name="sdet.appium.org.AppiumTestProject.LoginTestUsingPopUps"/>
+            <class name="sdet.appium.org.AppiumTestProject.ToDoListTest"/>
+        </classes>
+    </test>
+</suite>
